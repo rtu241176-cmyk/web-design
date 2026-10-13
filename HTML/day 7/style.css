@@ -1,0 +1,102 @@
+*{
+   margin:0;
+   padding:0;  
+   box-sizing:border-box;   
+}
+.ssection{
+	background:black;
+	color:white;
+	padding-top:70px;
+	padding-bottom:70px;
+}
+.scontainer{
+	width:1140px;
+	margin:auto;
+}
+.stitle{
+	text-align:center;
+}
+.srow{
+	display:flex;
+}
+.scoll1{
+	width:33.33%;
+	padding-left:15px;
+	padding-right:15px;
+	
+}
+.scoll2{
+	width:33.33%;
+	padding-left:15px;
+	padding-right:15px;
+	
+}
+.scoll3{
+	width:33.33%;
+	padding-left:15px;
+	padding-right:15px;
+	
+}
+.sbox{
+	background-color:green;
+	border:2px solid white;
+	padding:20px;
+	text-align:center;
+	
+}
+.sbox h3{
+	margin-bottom:15px;
+}
+.rsection{
+	background:gray;
+	color:white;
+	padding-top:70px;
+	padding-bottom:50px;
+}
+.rcontainer{
+	width:1140px;
+	margin:auto;
+}
+.rrow{
+	display:flex;
+}
+.rcol1{
+	width:33.33%;
+	padding-left:15px;
+	padding-right:15px;
+	
+}
+.rcol2{
+	width:33.33%;
+	padding-left:15px;
+	padding-right:15px;
+	
+	
+}
+.rbox{
+	padding:20px;
+	
+}
+.rbox h3{
+	margin-bottom:15px;
+	text-align:left;
+}
+.sbtn{
+	margin-top:20px;
+	padding:15px;
+}
+.pcontainer{
+	width:1140px;
+	margin:auto;
+}
+.prow{
+	border:1px solid black;
+	padding:20px;
+	display:flex;
+}
+.col{
+	border:1px solid red;
+	height:100px;
+	width:25%;
+	margin:5px;
+}

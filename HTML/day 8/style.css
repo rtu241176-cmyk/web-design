@@ -1,0 +1,98 @@
+*{
+   margin:0;
+   padding:0;  
+   box-sizing:border-box;   
+}
+
+.fcontainer{
+	width:1140px;
+	margin:auto;
+}
+.frow{
+	display:flex;
+	flex:wrap;
+}
+.fcol1{
+	width:50%;
+	padding-left:15px;
+	padding-right:15px;
+}
+.frow1{
+	display:flex;
+}
+.image1{
+	width:35%;
+	padding-left:10px;
+	padding-right:10px;
+}
+.peragraph1{
+	width:65%;
+	padding-left:10px;
+	padding-right:10px;
+}
+.image1{
+	width:100%;
+}
+.fcol2{
+	width:50%;
+	padding-left:15px;
+	padding-right:15px;
+}
+.frow2{
+	display:flex;
+}
+.image2{
+	width:35%;
+	padding-left:10px;
+	padding-right:10px;
+}
+.peragraph2{
+	width:65%;
+	padding-left:10px;
+	padding-right:10px;
+}
+.image2 {
+	width:100%;
+}
+.fcol3{
+	width:50%;
+	padding-left:15px;
+	padding-right:15px;
+}
+.frow3{
+	display:flex;
+}
+.image3{
+	width:35%;
+	padding-left:10px;
+	padding-right:10px;
+}
+.peragraph3{
+	width:65%;
+	padding-left:10px;
+	padding-right:10px;
+}
+.image3{
+	width:100%;
+}
+.fcol4{
+	width:50%;
+	padding-left:15px;
+	padding-right:15px;
+}
+.frow4{
+	display:flex;
+}
+.image4{
+	width:35%;
+	padding-left:10px;
+	padding-right:10px;
+}
+.peragraph4{
+	width:65%;
+	padding-left:10px;
+	padding-right:10px;
+}
+.image4{
+	width:100%;
+}
